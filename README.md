@@ -65,7 +65,7 @@ Tampilan sedikit berubah karena gambar tidak lagi dibungkus dalam elemen <div> s
 ![Kode perbaikan](src/assets/05-1.png)
 
 **Perbaikan :**
-- Pada elemen <h1>, kita menampilkan nama dari objek person.
+- Pada elemen h1, kita menampilkan nama dari objek person.
 - Pada elemen <img>, kita menggunakan properti style untuk menetapkan gaya langsung pada elemen tersebut.
 - Properti style pada elemen <img> ditambahkan untuk memastikan gambar ditampilkan dengan benar.
 
